@@ -37,7 +37,7 @@ I've spent 20+ years in transportation, logistics, and supply chain operations: 
 - **AI (Claude):** speeding up analysis, reporting and everyday workflows
 
 ## 📊 What I'm learning
-- Analytics Certificate *(in progress)*
+- Data Analytics Certificate Linkedin Learning *(in progress)*
 - Excel (pivot tables, lookups, dashboards)
 - SQL
 - Tableau / Power Bi
