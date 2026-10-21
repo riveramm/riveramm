@@ -16,11 +16,31 @@ I've spent 20+ years in transportation, logistics, and supply chain operations: 
 - **Process improvement:** Lean Six Sigma Green Belt, ISO 9001
 - **Logistics operations:** fleet management, fuel cost control, international shipping (SAP GTS)
 
+## 🚚 What I bring from the field
+- **Cost savings:** consistently delivered transportation savings through lane, mode
+  and cost-to-serve analysis
+- **On-time performance:** kept on-time pickup and delivery consistently high across a
+  multi-state network
+- **Shipment exceptions & SAP troubleshooting:** tracked down missing and late
+  shipments and fixed delivery and post goods issue (PGI) errors across multiple
+  SAP systems, including S/4HANA and dangerous goods (hazmat) shipments
+- **SAP & WMS:** daily user of SAP EWM, S/4HANA and GTS; supported enhancement rollouts
+  with user acceptance testing (UAT) and go-live support
+- **International shipping:** customs documentation in SAP GTS and freight forwarder
+  coordination
+- **Safety & compliance:** DOT, CSA and EPA programs; Lean Six Sigma Green Belt; ISO 9001
+
+## 📊 Data & AI tools
+- **Excel:** pivot tables, lookups, dashboards
+- **Power BI** and **SQL:** retrieving data, building dashboards, telling the story
+- **Python:** learning
+- **AI (Claude):** speeding up analysis, reporting and everyday workflows
+
 ## 📊 What I'm learning
 - Google Data Analytics Certificate *(in progress)*
 - Excel (pivot tables, lookups, dashboards)
 - SQL
-- Tableau / Power BI
+- Tableau / Power
 
 
 ## 📫 Connect with me
